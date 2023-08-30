@@ -1,3 +1,1 @@
-clone this repository 
-Run npm install
-Run npm start
+This project is all about a group of robot 
